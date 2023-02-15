@@ -6,15 +6,15 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 4,2003,Bud Light,https://superbowl-ads.com/2003-bud-light-hermit-crab/,https://www.youtube.com/watch?v=ovQYgnXHooY,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,20,0,100.00%,,,consumerist
 5,2020,Toyota,https://superbowl-ads.com/2020-toyota-go-places-with-cobie-smulders/,https://www.youtube.com/watch?v=f34Ji70u3nk,Automotive,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,155,13,92.26%,informative,,consumerist
 6,2020,Coca-Cola,https://superbowl-ads.com/2020-coca-cola-energy-show-up/,https://www.youtube.com/watch?v=-gAZRN3SCBw,Soft Drink,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,1400,387,78.34%,informative,partner-catcher,consumerist
-7,2020,Kia,https://superbowl-ads.com/2020-kia-tough-never-quits/,https://www.youtube.com/watch?v=lMs79UXam9A,Automotive,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,NaN,NaN,NaN,inspirational,NFL,consumerist
+7,2020,Kia,https://superbowl-ads.com/2020-kia-tough-never-quits/,https://www.youtube.com/watch?v=lMs79UXam9A,Automotive,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,,,,inspirational,NFL,consumerist
 8,2020,Hynudai,https://superbowl-ads.com/2020-hyundai-smaht-pahk/,https://www.youtube.com/watch?v=WBvkmWDjsYc,Automotive,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,4000,54,98.67%,informative,,consumerist
 9,2020,Budweiser,https://superbowl-ads.com/2020-budweiser-typical-american/,https://www.youtube.com/watch?v=J0xugdotpp8,Beer,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,21,2,91.30%,together,,consumerist
 10,2010,Hynudai,https://superbowl-ads.com/hd-2010-super-bowl-commercial-new-hyundai-super-bowl-44-xliv-ad-hyundai-body-pass-2011-sonata/,https://www.youtube.com/watch?v=dWQqIeAYfK8,Automotive,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,52,15,77.61%,nostalgia,together,consumerist
 11,2010,Bud Light,https://superbowl-ads.com/hd-exclusive-bud-light-scientist-2010-superbowl-44-xliv-commercial-ad/,https://www.youtube.com/watch?v=agISXMN4tng,Beer,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,10,0,100.00%,together,,consumerist
 12,2007,Budweiser,https://superbowl-ads.com/2007-budweiser-king-crab/,https://www.youtube.com/watch?v=7KHlMJE84eA,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,139,25,84.76%,partner-catcher,,consumerist
 13,2002,Budweiser,https://superbowl-ads.com/2002-budweiser-ground-zero-clydesdales-bow/,https://www.youtube.com/watch?v=1MZUvib98Rs,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,1000,18,98.23%,,,consumerist
-14,2020,NFL,https://superbowl-ads.com/2020-nfl-next-100/,https://www.youtube.com/watch?v=lbkafMhmvMo,Football,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,NaN,NaN,NaN,nostalgia,together,consumerist
-15,2017,NFL,https://superbowl-ads.com/2017-nfl-super-bowl-51-li-tv-commercial-super-bowl-baby-legends/,https://www.youtube.com/watch?v=9csH_Hy-7A4,Football,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,nostalgia,together,consumerist
+14,2020,NFL,https://superbowl-ads.com/2020-nfl-next-100/,https://www.youtube.com/watch?v=lbkafMhmvMo,Football,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,,,,nostalgia,together,consumerist
+15,2017,NFL,https://superbowl-ads.com/2017-nfl-super-bowl-51-li-tv-commercial-super-bowl-baby-legends/,https://www.youtube.com/watch?v=9csH_Hy-7A4,Football,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,nostalgia,together,consumerist
 16,2005,Bud Light,https://superbowl-ads.com/2005-bud-light-parrot/,https://www.youtube.com/watch?v=-gTWA5AsTP8,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,30,0,100.00%,partner-catcher,,consumerist
 17,2009,Pepsi,https://superbowl-ads.com/2009-pepsi-max-im-good/,https://www.youtube.com/watch?v=qUZaSf7T7ig,Soft Drink,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,391,13,96.78%,partner-catcher,,consumerist
 18,2004,Bud Light,https://superbowl-ads.com/2004-bud-light-frank/,https://www.youtube.com/watch?v=mjN3OY9Eefk,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,125,2,98.43%,partner-catcher,,consumerist
@@ -41,7 +41,7 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 39,2004,Pepsi,https://superbowl-ads.com/2004-pepsi-bears-find-food/,https://www.youtube.com/watch?v=GzWUUZRli6s,Soft Drink,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,339,13,96.31%,,,consumerist
 40,2018,Kia,https://superbowl-ads.com/2018-kia-stinger-steven-tyler-big-game-ad-feel-something-again/,https://www.youtube.com/watch?v=9_dE6Z2HK8I,Automotive,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,441,12,97.35%,nostalgia,,consumerist
 41,2018,Pepsi,https://superbowl-ads.com/2018_pepsi_this_is_the_pepsi/,https://www.youtube.com/watch?v=0gHYd67OumQ,Soft Drink,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3400,203,94.37%,nostalgia,together,consumerist
-42,2018,NFL,https://superbowl-ads.com/touchdown-celebrations-to-come-nfl-super-bowl-lii-commercial/,https://www.youtube.com/watch?v=KUoD-gPDahw,Football,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,NaN,NaN,NaN,nostalgia,together,consumerist
+42,2018,NFL,https://superbowl-ads.com/touchdown-celebrations-to-come-nfl-super-bowl-lii-commercial/,https://www.youtube.com/watch?v=KUoD-gPDahw,Football,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,,,,nostalgia,together,consumerist
 43,2010,E-Trade,https://superbowl-ads.com/hd-exclusive-e-trade-baby-tears-2010-superbowl-44-xliv-commercial-ad/,https://www.youtube.com/watch?v=LgiYL1Ry2I8,Trading,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,23,0,100.00%,,,consumerist
 44,2017,NFL,https://superbowl-ads.com/2017-nfl-super-bowl-51-li-tv-commercial-inside-lines/,https://www.youtube.com/watch?v=pvKBdrx4quA,Football,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,2200,328,87.03%,nostalgia,together,consumerist
 45,2000,E-Trade,https://superbowl-ads.com/2000-etrade-money-out-of-the-wazoo/,https://www.youtube.com/watch?v=oftjwYmlfoA,Trading,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,176,7,96.17%,,,consumerist
@@ -53,10 +53,10 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 51,2009,Budweiser,https://superbowl-ads.com/2009-budweiser-clydesdale-plays-fetch/,https://www.youtube.com/watch?v=w_ZEGUX4YnI,Beer,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,72,3,96.00%,,,consumerist
 52,2012,E-Trade,https://superbowl-ads.com/2012-etrade-fatherhood/,https://www.youtube.com/watch?v=fObt1E6Ij_E,Trading,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,1,0,100.00%,,,consumerist
 53,2019,Bud Light,https://superbowl-ads.com/2019-bud-light-medieval-barbers/,https://www.youtube.com/watch?v=hkSQ2Vr41bM,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,71,119,37.37%,,,consumerist
-54,2017,Kia,https://superbowl-ads.com/2017-kia-super-bowl-51-li-tv-commercial-heros-journey-starring-melissa-mccarthy/,https://www.youtube.com/watch?v=pVxmT2x3Od4,Automotive,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,NaN,NaN,NaN,inspirational,,altruistic
+54,2017,Kia,https://superbowl-ads.com/2017-kia-super-bowl-51-li-tv-commercial-heros-journey-starring-melissa-mccarthy/,https://www.youtube.com/watch?v=pVxmT2x3Od4,Automotive,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,,,,inspirational,,altruistic
 55,2007,Bud Light,https://superbowl-ads.com/2007-bud-light-but-he-has-bud-light/,https://www.youtube.com/watch?v=qIC90Vnc-OI,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,460,14,97.05%,together,,consumerist
 56,2011,Bud Light,https://superbowl-ads.com/2011-bud-light-dog-sitter/,https://www.youtube.com/watch?v=JJn1vM7LB1Y,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,3,2,60.00%,together,,consumerist
-57,2016,Pepsi,https://superbowl-ads.com/pepsi-2016-super-bowl-50-ad-joy-pepsi/,https://www.youtube.com/watch?v=B9j4Cw5dkBs,Soft Drink,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,NaN,NaN,NaN,nostalgia,,consumerist
+57,2016,Pepsi,https://superbowl-ads.com/pepsi-2016-super-bowl-50-ad-joy-pepsi/,https://www.youtube.com/watch?v=B9j4Cw5dkBs,Soft Drink,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,,,,nostalgia,,consumerist
 58,2009,Hynudai,https://superbowl-ads.com/2009-hyundai-angry-bosses/,https://www.youtube.com/watch?v=puG0WOgAUfs,Automotive,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,588,9,98.49%,informative,,consumerist
 59,2011,Coca-Cola,https://superbowl-ads.com/2011-coca-cola-siege/,https://www.youtube.com/watch?v=nAJvHsVoLq0,Soft Drink,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,65,3,95.59%,,,consumerist
 60,2016,Hynudai,https://superbowl-ads.com/hyundai-2016-super-bowl-50-ad-ryanville/,https://www.youtube.com/watch?v=wBcijELzZi4,Automotive,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,150,6,96.15%,,,consumerist
@@ -64,68 +64,68 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 62,2010,Doritos,https://superbowl-ads.com/hd-exclusive-doritos-samurai-2010-super-bowl-44-xliv-commercial-ad/,https://www.youtube.com/watch?v=1ww1k7w4WQ8,Chips,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,1300,33,97.52%,,,consumerist
 63,2015,Doritos,https://superbowl-ads.com/2015-doritos-middle-seat/,https://www.youtube.com/watch?v=2JqRXLQYF9o,Chips,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,3200,240,93.02%,together,partner-catcher,consumerist
 64,2007,Coca-Cola,https://superbowl-ads.com/2007-coca-cola-video-game/,https://www.youtube.com/watch?v=3Tnm53uXIvg,Soft Drink,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,456,50,90.12%,inspirational,,consumerist
-65,2019,Toyota,https://superbowl-ads.com/2019-toyota-supra-wizard/,https://www.youtube.com/watch?v=ZuBbnZ3UbJw,Automotive,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,informative,,consumerist
+65,2019,Toyota,https://superbowl-ads.com/2019-toyota-supra-wizard/,https://www.youtube.com/watch?v=ZuBbnZ3UbJw,Automotive,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,informative,,consumerist
 66,2002,Budweiser,https://superbowl-ads.com/2002-budweiser-how-ya-doin/,https://www.youtube.com/watch?v=mhEYXcCB1Qw,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,423,9,97.92%,together,,consumerist
 67,2014,Coca-Cola,https://superbowl-ads.com/2014-coca-going-all-the-way/,https://www.youtube.com/watch?v=nO-8ZY7p95o,Soft Drink,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,17,5,77.27%,together,inspirational,consumerist
-68,2004,Budweiser,https://superbowl-ads.com/2004-budweiser-referee/,https://www.youtube.com/watch?v=uO-E2T1hayU,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,,,consumerist
+68,2004,Budweiser,https://superbowl-ads.com/2004-budweiser-referee/,https://www.youtube.com/watch?v=uO-E2T1hayU,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,consumerist
 69,2016,Coca-Cola,https://superbowl-ads.com/coca-cola-mini-2016-super-bowl-50-ad-hulk-vs-ant-man/,https://www.youtube.com/watch?v=sMkGwCw7iv8,Soft Drink,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,260000,8100,96.98%,nostalgia,,consumerist
 70,2015,Budweiser,https://superbowl-ads.com/2015-budweiser-clydesdale-beer-run/,https://www.youtube.com/watch?v=5tso0er4EUI,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,23,4,85.19%,,,consumerist
 71,2016,Hynudai,https://superbowl-ads.com/hyundai-2016-super-bowl-50-ad-first-date/,https://www.youtube.com/watch?v=KwUUdl22mkA,Automotive,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,3000,51,98.33%,informative,family,consumerist
 72,2001,Bud Light,https://superbowl-ads.com/2001-bud-light-pencil-pusher/,https://www.youtube.com/watch?v=J89vbNUzhIE,Beer,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,389,12,97.01%,partner-catcher,,consumerist
 73,2003,Bud Light,https://superbowl-ads.com/2003-bud-light-strongman/,https://www.youtube.com/watch?v=_cEQ5g6bzdM,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,55,3,94.83%,together,,consumerist
 74,2000,Bud Light,https://superbowl-ads.com/2000-bud-light-hold-the-door/,https://www.youtube.com/watch?v=M3IV93HwSkc,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,8,0,100.00%,together,,consumerist
-75,2018,Coca-Cola,https://superbowl-ads.com/2018-coca-cola-super-bowl-ad-wonder-us/,https://www.youtube.com/watch?v=ucCvhK2CZMo,Soft Drink,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,inspirational,together,consumerist
+75,2018,Coca-Cola,https://superbowl-ads.com/2018-coca-cola-super-bowl-ad-wonder-us/,https://www.youtube.com/watch?v=ucCvhK2CZMo,Soft Drink,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,,,,inspirational,together,consumerist
 76,2001,Pepsi,https://superbowl-ads.com/2001-pepsi-subway-miracle/,https://www.youtube.com/watch?v=1nmPv4M8Ps8,Soft Drink,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,6,4,60.00%,inspirational,,consumerist
 77,2014,Doritos,https://superbowl-ads.com/2014-doritos-cowboy-kid/,https://www.youtube.com/watch?v=1X_M47SQF6s,Chips,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,47,5,90.38%,family,together,consumerist
-78,2016,Budweiser,https://superbowl-ads.com/budweiser-2016-super-bowl-50-ad-simply-put/,https://www.youtube.com/watch?v=Le_2S2db0Bk,Beer,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,NaN,NaN,NaN,informative,,altruistic
+78,2016,Budweiser,https://superbowl-ads.com/budweiser-2016-super-bowl-50-ad-simply-put/,https://www.youtube.com/watch?v=Le_2S2db0Bk,Beer,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,,,,informative,,altruistic
 79,2004,Budweiser,https://superbowl-ads.com/2004-budweiser-donkey/,https://www.youtube.com/watch?v=pmmsr7PAhWU,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,3800,110,97.19%,,,consumerist
-80,2015,Budweiser,https://superbowl-ads.com/budweiser-2015-super-bowl-xlix-ad-brewed-the-hard-way/,https://www.youtube.com/watch?v=7_EfXuGev24,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,together,,consumerist
+80,2015,Budweiser,https://superbowl-ads.com/budweiser-2015-super-bowl-xlix-ad-brewed-the-hard-way/,https://www.youtube.com/watch?v=7_EfXuGev24,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,,together,,consumerist
 81,2016,Kia,https://superbowl-ads.com/kia-optima-2016-super-bowl-50-ad-walken-closet/,https://www.youtube.com/watch?v=rBkPXt-OpA4,Automotive,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,145,3,97.97%,inspirational,,consumerist
 82,2017,Budweiser,https://superbowl-ads.com/2017-budweiser-super-bowl-51-li-tv-commercial-born-hard-way/,https://www.youtube.com/watch?v=HtBZvl7dIu4,Beer,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,48000,17000,73.85%,nostalgia,together,consumerist
-83,2000,Budweiser,https://superbowl-ads.com/2000-budweiser-talking-dog/,,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,,,consumerist
+83,2000,Budweiser,https://superbowl-ads.com/2000-budweiser-talking-dog/,,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,consumerist
 84,2009,Coca-Cola,https://superbowl-ads.com/2009-coca-cola-heist/,https://www.youtube.com/watch?v=icV7fGqPZ2I,Soft Drink,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,1900,332,85.13%,together,,consumerist
 85,2015,Doritos,https://superbowl-ads.com/doritos-2015-super-bowl-xlix-ad-when-pigs-fly/,https://www.youtube.com/watch?v=YQo0TfuueaY,Chips,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,2300,166,93.27%,inspirational,,consumerist
 86,2004,Toyota,https://superbowl-ads.com/2004-toyota-revenge/,https://www.youtube.com/watch?v=5uLJitPWAXM,Automotive,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,1100,16,98.57%,,,consumerist
 87,2016,NFL,https://superbowl-ads.com/nfl-2016-super-bowl-50-ad-super-bowl-babies-choir/,https://www.youtube.com/watch?v=9KqekigARfE,Football,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,21000,2000,91.30%,nostalgia,family,consumerist
-88,2017,Hynudai,https://superbowl-ads.com/2017-hyundai-super-bowl-51-li-tv-commercial-better-super-bowl/,https://www.youtube.com/watch?v=KpN6fxOorwE,Automotive,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,together,,altruistic
+88,2017,Hynudai,https://superbowl-ads.com/2017-hyundai-super-bowl-51-li-tv-commercial-better-super-bowl/,https://www.youtube.com/watch?v=KpN6fxOorwE,Automotive,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,,,,together,,altruistic
 89,2012,Bud Light,https://superbowl-ads.com/2012-bud-light-rescue-dog/,https://www.youtube.com/watch?v=Qr3GJqccGi4,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,45,3,93.75%,together,,consumerist
 90,2008,Budweiser,https://superbowl-ads.com/2008-budweiser-dalmatian-trains-hank-for-team/,https://www.youtube.com/watch?v=odpagg0jV6I,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,363,8,97.84%,,,consumerist
 91,2013,Hynudai,https://superbowl-ads.com/video-hyundai-2013-super-bowl-xlvii-ad-santafe-team/,https://www.youtube.com/watch?v=jvm68nEAU7o,Automotive,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,1100,14,98.74%,family,,consumerist
 92,2010,Doritos,https://superbowl-ads.com/hd-exclusive-casket-funeral-doritos-2010-super-bowl-44-xliv-commercial-ad/,https://www.youtube.com/watch?v=2IhJl7mBtls,Chips,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,26,0,100.00%,,,consumerist
-93,2016,Bud Light,https://superbowl-ads.com/bud-light-2016-super-bowl-50-ad-the-bud-light-party/,https://www.youtube.com/watch?v=e0ez2t6oRWY,Beer,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,NaN,NaN,NaN,together,,consumerist
+93,2016,Bud Light,https://superbowl-ads.com/bud-light-2016-super-bowl-50-ad-the-bud-light-party/,https://www.youtube.com/watch?v=e0ez2t6oRWY,Beer,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,,,,together,,consumerist
 94,2019,Toyota,https://superbowl-ads.com/2019-toyota-toni-with-antoinette-harris/,https://www.youtube.com/watch?v=wegrVsP3gK4,Automotive,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,44,16,73.33%,inspirational,,consumerist
 95,2009,Bud Light,https://superbowl-ads.com/2009-bud-light-meeting/,https://www.youtube.com/watch?v=L1fL0ZHX2t0,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,196,8,96.08%,,,consumerist
-96,2019,Budweiser,https://superbowl-ads.com/2019-budweiser-wind-never-felt-better/,,Beer,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,together,,altruistic
+96,2019,Budweiser,https://superbowl-ads.com/2019-budweiser-wind-never-felt-better/,,Beer,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,,,,together,,altruistic
 97,2003,Bud Light,https://superbowl-ads.com/2003-bud-light-yoga/,https://www.youtube.com/watch?v=bcV8WN1YIL4,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,63,18,77.78%,,,consumerist
 98,2019,Coca-Cola,https://superbowl-ads.com/2019-coca-cola-a-coke-is-a-coke/,https://www.youtube.com/watch?v=WTqL_giKNHQ,Soft Drink,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,441,58,88.38%,together,,consumerist
 99,2012,Hynudai,https://superbowl-ads.com/2012-hyundai-genesis-heart/,https://www.youtube.com/watch?v=UxQKSCpOIOI,Automotive,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,6,0,100.00%,informative,,consumerist
-100,2011,Hynudai,https://superbowl-ads.com/2011-hyundai-super-bowl-commercial-hypnotized-video/,https://www.youtube.com/watch?v=5ofcQl6gWeE,Automotive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,informative,,consumerist
-101,2015,Kia,https://superbowl-ads.com/2015-kia-sorento-the-perfect-getaway-with-pierce-brosnan/,https://www.youtube.com/watch?v=nayeYTmEdYw,Automotive,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,77,2,97.47%,nostalgia,,consumerist
-102,2014,Budweiser,https://superbowl-ads.com/2014-budweiser-a-heros-welcome/,https://www.youtube.com/watch?v=XxfxB0O9Uuk,Beer,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,together,,altruistic
+100,2011,Hynudai,https://superbowl-ads.com/2011-hyundai-super-bowl-commercial-hypnotized-video/,https://www.youtube.com/watch?v=5ofcQl6gWeE,Automotive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,informative,,consumerist
+101,2015,Kia,https://superbowl-ads.com/2015-kia-sorento-the-perfect-getaway-with-pierce-bros/,https://www.youtube.com/watch?v=nayeYTmEdYw,Automotive,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,77,2,97.47%,nostalgia,,consumerist
+102,2014,Budweiser,https://superbowl-ads.com/2014-budweiser-a-heros-welcome/,https://www.youtube.com/watch?v=XxfxB0O9Uuk,Beer,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,,,,together,,altruistic
 103,2007,Bud Light,https://superbowl-ads.com/2007-bud-light-rock-scissors-paper/,https://www.youtube.com/watch?v=kH50-giCeDM,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,365,10,97.33%,,,consumerist
-104,2008,Hynudai,https://superbowl-ads.com/2008-hyundai-genesis-luxury/,https://www.youtube.com/watch?v=PsKJUnGEGSs,Automotive,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,informative,,consumerist
+104,2008,Hynudai,https://superbowl-ads.com/2008-hyundai-genesis-luxury/,https://www.youtube.com/watch?v=PsKJUnGEGSs,Automotive,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,informative,,consumerist
 105,2010,NFL,https://superbowl-ads.com/2010-nfl-best-fans-on-the-planet/,https://www.youtube.com/watch?v=6cMHr8goUgU,Football,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,508,17,96.76%,together,,consumerist
 106,2005,Pepsi,https://superbowl-ads.com/2005-pepsi-song-in-a-bottle/,https://www.youtube.com/watch?v=vUwROngDC88,Soft Drink,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,4,0,100.00%,informative,,consumerist
 107,2018,Budweiser,https://superbowl-ads.com/41891-2/,https://www.youtube.com/watch?v=GNVw5f16GEM,Beer,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,176,10,94.62%,together,informative,altruistic
-108,2018,Bud Light,https://superbowl-ads.com/bud-light-the-bud-knight/,https://www.youtube.com/watch?v=UizTtcBsNi8,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,NaN,NaN,NaN,together,,consumerist
+108,2018,Bud Light,https://superbowl-ads.com/bud-light-the-bud-knight/,https://www.youtube.com/watch?v=UizTtcBsNi8,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,,,,together,,consumerist
 109,2004,Bud Light,https://superbowl-ads.com/2004-bud-light-sleigh-ride/,https://www.youtube.com/watch?v=yQ_nU0_R7PE,Beer,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,120,7,94.49%,partner-catcher,together,consumerist
 110,2002,Budweiser,https://superbowl-ads.com/2002-budweiser-anniversary-card/,https://www.youtube.com/watch?v=LnU2T2P1oxA,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,59,4,93.65%,partner-catcher,,consumerist
 111,2006,Budweiser,https://superbowl-ads.com/2006-budweiser-stadium-crowd-wave/,https://www.youtube.com/watch?v=4WeAvfP1ikU,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,84,18,82.35%,together,,consumerist
-112,2014,Bud Light,https://superbowl-ads.com/2014-bud-light-up-for-whatever-2/,https://www.youtube.com/watch?v=PnOW5qj_R6A,Beer,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,NaN,NaN,NaN,,,consumerist
+112,2014,Bud Light,https://superbowl-ads.com/2014-bud-light-up-for-whatever-2/,https://www.youtube.com/watch?v=PnOW5qj_R6A,Beer,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,,,,,,consumerist
 113,2009,Coca-Cola,https://superbowl-ads.com/2009-coca-cola-avatar/,https://www.youtube.com/watch?v=Kwke0LNardc,Soft Drink,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,3500,297,92.18%,partner-catcher,,consumerist
-114,2014,Bud Light,https://superbowl-ads.com/2014-bud-light-up-for-whatever-1/,,Beer,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,NaN,NaN,NaN,,,consumerist
-115,2003,Bud Light,https://superbowl-ads.com/2003-bud-light-third-arm/,,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,NaN,NaN,NaN,,,consumerist
+114,2014,Bud Light,https://superbowl-ads.com/2014-bud-light-up-for-whatever-1/,,Beer,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,,,,,,consumerist
+115,2003,Bud Light,https://superbowl-ads.com/2003-bud-light-third-arm/,,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,consumerist
 116,2014,Toyota,https://superbowl-ads.com/2014-toyota-highlander-no-room-for-boring/,https://www.youtube.com/watch?v=b01P9PaaoLk,Automotive,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,256,7,97.34%,informative,,consumerist
 117,2009,Bud Light,https://superbowl-ads.com/2009-bud-light-skier/,https://www.youtube.com/watch?v=LEVQAU_LITI,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,34,3,91.89%,informative,,consumerist
 118,2014,Kia,https://superbowl-ads.com/2014-kia-the-truth/,https://www.youtube.com/watch?v=FTNMYoKHwvU,Automotive,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,822,5,99.40%,informative,,consumerist
 119,2014,Hynudai,https://superbowl-ads.com/2014-hyundai-elantra-nice/,https://www.youtube.com/watch?v=2jMWybAKjWw,Automotive,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,33,2,94.29%,informative,,consumerist
-120,2013,Bud Light,https://superbowl-ads.com/video-bud-light-2013-super-bowl-xlvii-commercial-lucky-chair/,https://www.youtube.com/watch?v=7HMTkEMdqBQ,Beer,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,NaN,NaN,NaN,,,consumerist
+120,2013,Bud Light,https://superbowl-ads.com/video-bud-light-2013-super-bowl-xlvii-commercial-lucky-chair/,https://www.youtube.com/watch?v=7HMTkEMdqBQ,Beer,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,,consumerist
 121,2008,Bud Light,https://superbowl-ads.com/2008-bud-light-wheel-suck/,https://www.youtube.com/watch?v=WX8Du9pusdA,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,764,55,93.28%,nostalgia,,consumerist
 122,2003,Budweiser,https://superbowl-ads.com/2003-budweiser-great-listener/,https://www.youtube.com/watch?v=zx4SnN9HuRw,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,18,3,85.71%,partner-catcher,,consumerist
 123,2013,Bud Light,https://superbowl-ads.com/video-bud-light-2013-super-bowl-xlvii-ad-journey/,https://www.youtube.com/watch?v=leptS7k6sLE,Beer,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,1,0,100.00%,partner-catcher,,consumerist
 124,2011,Doritos,https://superbowl-ads.com/2011-doritos-pug-attack/,https://www.youtube.com/watch?v=1A6frF5zfDE,Chips,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,871,11,98.75%,,,consumerist
-125,2005,Bud Light,https://superbowl-ads.com/2005-bud-light-skydiver/,https://www.youtube.com/watch?v=Y9wyIID8Khs,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,,,consumerist
-126,2005,Budweiser,https://superbowl-ads.com/2005-budweiser-tryouts/,,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,together,,consumerist
+125,2005,Bud Light,https://superbowl-ads.com/2005-bud-light-skydiver/,https://www.youtube.com/watch?v=Y9wyIID8Khs,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,consumerist
+126,2005,Budweiser,https://superbowl-ads.com/2005-budweiser-tryouts/,,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,,,,together,,consumerist
 127,2014,Doritos,https://superbowl-ads.com/2014-doritos-time-machine/,https://www.youtube.com/watch?v=Y-P0Hs0ADJY,Chips,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,21000,1600,92.92%,,,consumerist
 128,2008,Bud Light,https://superbowl-ads.com/2008-bud-light-wine-cheese-party/,https://www.youtube.com/watch?v=aEWtTVaIH0M,Beer,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,417,59,87.61%,together,,consumerist
 129,2012,Pepsi,https://superbowl-ads.com/2012-pepsi-kings-court/,https://www.youtube.com/watch?v=3rZs8ZKTsp0,Soft Drink,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,1500,139,91.52%,,,consumerist
@@ -141,11 +141,11 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 139,2010,Doritos,https://superbowl-ads.com/hd-exclusive-dog-shock-collar-doritos-commercial-super-bowl-44-2010-super-bowl-xliv/,https://www.youtube.com/watch?v=UBaZDWIs3fs,Chips,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,284,19,93.73%,,,consumerist
 140,2012,Kia,https://superbowl-ads.com/2012-kia-optima-drive-the-dream-extended-version/,https://www.youtube.com/watch?v=9RI6OGXq11Y,Automotive,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,616,14,97.78%,,,consumerist
 141,2012,NFL,https://superbowl-ads.com/2012-nfl-timeline/,https://www.youtube.com/watch?v=CPr4-P19NtE,Football,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2100,44,97.95%,,inspirational,consumerist
-142,2005,Bud Light,https://superbowl-ads.com/2005-bud-light-sharon/,,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,NaN,NaN,NaN,partner-catcher,,consumerist
+142,2005,Bud Light,https://superbowl-ads.com/2005-bud-light-sharon/,,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,,,,partner-catcher,,consumerist
 143,2010,Hynudai,https://superbowl-ads.com/hd-exclusive-2010-super-bowl-xliv-commercial-with-brett-favre-hyundai-commercial/,https://www.youtube.com/watch?v=KqAWv2wCW8I,Automotive,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,308,12,96.25%,,,consumerist
 144,2004,Bud Light,https://superbowl-ads.com/2004-bud-light-paintball/,https://www.youtube.com/watch?v=qbS0gF3YdBg,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,10,0,100.00%,,,consumerist
 145,2008,Bud Light,https://superbowl-ads.com/2008-bud-light-x-ray-vision/,https://www.youtube.com/watch?v=cOEMI8HRhlA,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,170,11,93.92%,,,consumerist
-146,2016,Toyota,https://superbowl-ads.com/pokemon-2016-super-bowl-50-ad-20-years-2/,https://www.youtube.com/watch?v=KLkQ9c9-QFI,Automotive,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,NaN,NaN,NaN,informative,,consumerist
+146,2016,Toyota,https://superbowl-ads.com/pokemon-2016-super-bowl-50-ad-20-years-2/,https://www.youtube.com/watch?v=KLkQ9c9-QFI,Automotive,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,,,,informative,,consumerist
 147,2006,Bud Light,https://superbowl-ads.com/2006-bud-light-magic-fridge/,https://www.youtube.com/watch?v=67dRRrRz2t8,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,436,17,96.25%,,,consumerist
 148,2007,Coca-Cola,https://superbowl-ads.com/2007-coca-cola-happiness-factory/,https://www.youtube.com/watch?v=NwZpO6saPxI,Soft Drink,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,30,4,88.24%,fantasy,,consumerist
 149,2007,Budweiser,https://superbowl-ads.com/2007-budweiser-dalmatian/,https://www.youtube.com/watch?v=esOPYOeotTU,Beer,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,58,3,95.08%,,,consumerist
@@ -155,20 +155,20 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 153,2009,Coca-Cola,https://superbowl-ads.com/2009-coke-zero-mean-troy/,https://www.youtube.com/watch?v=XKFUcEkIbEg,Soft Drink,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,102,8,92.73%,,,consumerist
 154,2009,Pepsi,https://superbowl-ads.com/2009-pepsi-anthem/,https://www.youtube.com/watch?v=WIzKwJmYLNs,Soft Drink,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,11,0,100.00%,nostalgia,,consumerist
 155,2001,E-Trade,https://superbowl-ads.com/2001-etrade-dot-com-ghost-town/,https://www.youtube.com/watch?v=ONZFkqzuMjI,Trading,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,240,9,96.39%,,,consumerist
-156,2018,Bud Light,https://superbowl-ads.com/bud-light-ye-olde-pep-talk/,https://www.youtube.com/watch?v=xza7T89Lda4,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,NaN,NaN,NaN,,,consumerist
-157,2015,Doritos,https://superbowl-ads.com/2015-doritos-cheesy-pirates/,,Chips,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,NaN,NaN,NaN,,,consumerist
+156,2018,Bud Light,https://superbowl-ads.com/bud-light-ye-olde-pep-talk/,https://www.youtube.com/watch?v=xza7T89Lda4,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,,,,,,consumerist
+157,2015,Doritos,https://superbowl-ads.com/2015-doritos-cheesy-pirates/,,Chips,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,,,,,,consumerist
 158,2010,Kia,https://superbowl-ads.com/hd-exclusive-kias-big-game-commercial-2010-super-bowl-44-xliv-ad/,https://www.youtube.com/watch?v=7q2yVq6fDEg,Automotive,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,104,6,94.55%,informative,,consumerist
 159,2008,Doritos,https://superbowl-ads.com/2008-doritos-mouse-trap/,https://www.youtube.com/watch?v=h8qgk5tXuUA,Chips,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,1200,38,96.93%,,,consumerist
 160,2012,Coca-Cola,https://superbowl-ads.com/2012-coca-cola-superstition/,https://www.youtube.com/watch?v=x1nttVdja9s,Soft Drink,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,78,19,80.41%,,,consumerist
 161,2011,Hynudai,https://superbowl-ads.com/2011-hyundai-super-bowl-commercial-deprogramming-video/,https://www.youtube.com/watch?v=32d5c_IW2Xc,Automotive,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1,0,100.00%,surreal,,consumerist
 162,2008,Coca-Cola,https://superbowl-ads.com/2008-coca-cola-political-parties/,https://www.youtube.com/watch?v=2_LWZe2BGaE,Soft Drink,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,39,3,92.86%,politics,,consumerist
-163,2000,Bud Light,https://superbowl-ads.com/2000-bud-light-she-has-a-cat/,,Beer,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,NaN,NaN,NaN,,,consumerist
-164,2019,Kia,https://superbowl-ads.com/2020-kia-telluride-give-it-everything/,https://www.youtube.com/watch?v=sS8dkRhDirY,Automotive,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,inspirational,,consumerist
+163,2000,Bud Light,https://superbowl-ads.com/2000-bud-light-she-has-a-cat/,,Beer,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,,,,,,consumerist
+164,2019,Kia,https://superbowl-ads.com/2020-kia-telluride-give-it-everything/,https://www.youtube.com/watch?v=sS8dkRhDirY,Automotive,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,,,,inspirational,,consumerist
 165,2002,Bud Light,https://superbowl-ads.com/2002-bud-light-satin-sheets/,https://www.youtube.com/watch?v=-LwSb4cCAnw,Beer,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,366,18,95.31%,,,consumerist
 166,2013,Kia,https://superbowl-ads.com/video-2013-kia-super-bowl-xlvii-commercial-space-babies/,https://www.youtube.com/watch?v=k5vbGQb7jR0,Automotive,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,49,4,92.45%,family,,consumerist
 167,2008,Pepsi,https://superbowl-ads.com/2008-pepsi-every-sip-with-justin-timberlake/,https://www.youtube.com/watch?v=AKKM8sP24BE,Soft Drink,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,634,16,97.54%,,,consumerist
-168,2019,Bud Light,https://superbowl-ads.com/2019-bud-light-special-delivery/,https://www.youtube.com/watch?v=eIlX0Gg0GRI,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,NaN,NaN,NaN,,,consumerist
-169,2011,Hynudai,https://superbowl-ads.com/2011-hyundai-super-bowl-commercial-anachronistic-city-video/,https://www.youtube.com/watch?v=-BVMOKtawUk,Automotive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,nostalgia,,consumerist
+168,2019,Bud Light,https://superbowl-ads.com/2019-bud-light-special-delivery/,https://www.youtube.com/watch?v=eIlX0Gg0GRI,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,consumerist
+169,2011,Hynudai,https://superbowl-ads.com/2011-hyundai-super-bowl-commercial-anachronistic-city-video/,https://www.youtube.com/watch?v=-BVMOKtawUk,Automotive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,nostalgia,,consumerist
 170,2008,Bud Light,https://superbowl-ads.com/2008-bud-light-language-of-love/,https://www.youtube.com/watch?v=Ao0x4zsb724,Beer,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,598,181,76.77%,partner-catcher,,consumerist
 171,2008,Bud Light,https://superbowl-ads.com/2008-bud-light-jackie-moon-will-ferrell/,https://www.youtube.com/watch?v=ecqiZn2DDFQ,Beer,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,1300,123,91.36%,,,consumerist
 172,2010,E-Trade,https://superbowl-ads.com/hd-exclusive-e-trade-baby-girlfriend-2010-superbowl-44-xliv-commercial-ad/,https://www.youtube.com/watch?v=tbLTl7egwlU,Trading,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,1200,59,95.31%,baby,,consumerist
@@ -178,19 +178,19 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 176,2003,Bud Light,https://superbowl-ads.com/2003-bud-light-upside-down-clown/,https://www.youtube.com/watch?v=DTvxyDwP2CA,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,244,11,95.69%,,,consumerist
 177,2011,Pepsi,https://superbowl-ads.com/2011-pepsi-max-love-hurts/,https://www.youtube.com/watch?v=r4eyQBvcBUA,Soft Drink,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,679,196,77.60%,family,,consumerist
 178,2018,E-Trade,https://superbowl-ads.com/etrade-commercial-this-is-getting-old/,https://www.youtube.com/watch?v=Qx5-AZlfjp4,Trading,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,188,12,94.00%,,,consumerist
-179,2016,Budweiser,https://superbowl-ads.com/budweiser-2016-super-bowl-50-ad-not-backing/,https://www.youtube.com/watch?v=to4dhysGYD0,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,inspirational,,consumerist
+179,2016,Budweiser,https://superbowl-ads.com/budweiser-2016-super-bowl-50-ad-not-backing/,https://www.youtube.com/watch?v=to4dhysGYD0,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,,inspirational,,consumerist
 180,2008,Coca-Cola,https://superbowl-ads.com/2008-coca-cola-its-mine/,https://www.youtube.com/watch?v=-ACk9mRky5k,Soft Drink,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,288,9,96.97%,,,consumerist
 181,2013,Kia,https://superbowl-ads.com/video-kia-forte-2013-super-bowl-xlvii-commercial-hot-bots/,https://www.youtube.com/watch?v=yhPBzlB6VJI,Automotive,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,227,19,92.28%,robot,,consumerist
 182,2014,Coca-Cola,https://superbowl-ads.com/2014-coca-cola-its-beautiful/,https://www.youtube.com/watch?v=D4BC8zUfNhU,Soft Drink,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,454,91,83.30%,together,,consumerist
-183,2012,Budweiser,https://superbowl-ads.com/2012-budweiser-return-of-the-king/,https://www.youtube.com/watch?v=TieDNumMwOc,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,inspirational,,consumerist
+183,2012,Budweiser,https://superbowl-ads.com/2012-budweiser-return-of-the-king/,https://www.youtube.com/watch?v=TieDNumMwOc,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,,inspirational,,consumerist
 184,2004,Bud Light,https://superbowl-ads.com/2004-bud-light-fergus/,https://www.youtube.com/watch?v=j7QA9oHpduk,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,46,3,93.88%,,,consumerist
 185,2007,Bud Light,https://superbowl-ads.com/2007-bud-light-class-with-carlos-mencia/,https://www.youtube.com/watch?v=670X2MCWzK0,Beer,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,1300,135,90.59%,,,consumerist
-186,2007,Budweiser,https://superbowl-ads.com/2007-budweiser-don-shula-vs-jayz/,https://www.youtube.com/watch?v=YnGpb8lbPOI,Beer,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,NaN,NaN,NaN,,,consumerist
+186,2007,Budweiser,https://superbowl-ads.com/2007-budweiser-don-shula-vs-jayz/,https://www.youtube.com/watch?v=YnGpb8lbPOI,Beer,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,consumerist
 187,2019,Kia,https://superbowl-ads.com/2019-kia-the-great-unknowns-what-if/,https://www.youtube.com/watch?v=nONhop0Kq-E,Automotive,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,50.00%,inspirational,,consumerist
-188,2002,Budweiser,https://superbowl-ads.com/2002-budweiser-tushy/,,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,NaN,NaN,NaN,,,consumerist
+188,2002,Budweiser,https://superbowl-ads.com/2002-budweiser-tushy/,,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,consumerist
 189,2010,E-Trade,https://superbowl-ads.com/hd-exclusive-e-trade-baby-first-class-2010-super-bowl-44-xliv-commercial-ad/,https://www.youtube.com/watch?v=tVrE5-eiSNA,Trading,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,35,3,92.11%,family,,consumerist
 190,2003,Bud Light,https://superbowl-ads.com/2003-bud-light-mother-in-law/,https://www.youtube.com/watch?v=RuIXFuwLb2s,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,340,18,94.97%,family,,consumerist
-191,2018,Toyota,https://superbowl-ads.com/toyota-2018-big-game-ad-one-team/,https://www.youtube.com/watch?v=QwF3ipuNyfc,Automotive,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,together,,consumerist
+191,2018,Toyota,https://superbowl-ads.com/toyota-2018-big-game-ad-one-team/,https://www.youtube.com/watch?v=QwF3ipuNyfc,Automotive,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,,,,together,,consumerist
 192,2003,Budweiser,https://superbowl-ads.com/2003-budweiser-instant-replay/,https://www.youtube.com/watch?v=hM79LTkT7ek,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,14,2,87.50%,,,consumerist
 193,2013,Budweiser,https://superbowl-ads.com/video-budweiser-2013-super-bowl-xlvii-ad-the-clydesdales-brotherhood/,https://www.youtube.com/watch?v=eJucRz8kYo0,Beer,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,3700,125,96.73%,inspirational,,consumerist
 194,2010,Budweiser,https://superbowl-ads.com/hd-exclusive-budweiser-body-bridge-2010-super-bowl-44-xliv-commercial-ad/,https://www.youtube.com/watch?v=IQHlA9qKJv4,Beer,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,1,0,100.00%,together,,consumerist
@@ -210,7 +210,7 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 208,2014,Bud Light,https://superbowl-ads.com/2014-bud-light-cool-twist/,https://www.youtube.com/watch?v=_l1nWWiut0I,Beer,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,37,3,92.50%,informative,,consumerist
 209,2005,Pepsi,https://superbowl-ads.com/2005-diet-pepsi-pdiddy/,https://www.youtube.com/watch?v=eXfNnSOOoVc,Soft Drink,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,99,6,94.29%,,,consumerist
 210,2005,Bud Light,https://superbowl-ads.com/2005-bud-light-cedric-stranded/,https://www.youtube.com/watch?v=Q5Hu_FBUIsk,Beer,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,9,0,100.00%,,,consumerist
-211,2007,Bud Light,https://superbowl-ads.com/2007-bud-light-apes-plan/,https://www.youtube.com/watch?v=osn2rzClKh0,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,NaN,NaN,NaN,,,consumerist
+211,2007,Bud Light,https://superbowl-ads.com/2007-bud-light-apes-plan/,https://www.youtube.com/watch?v=osn2rzClKh0,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,consumerist
 212,2005,Pepsi,https://superbowl-ads.com/2005-diet-pepsi-hot-guy/,https://www.youtube.com/watch?v=bHY2miRSwh4,Soft Drink,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,3,0,100.00%,,,consumerist
 213,2015,Budweiser,https://superbowl-ads.com/2015-budweiser-lost-dog/,https://www.youtube.com/watch?v=otCxSnu_HXA,Beer,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,2400,42,98.28%,inspirational,,consumerist
 214,2019,Bud Light,https://superbowl-ads.com/2019-bud-light-game-of-thrones-joust/,https://www.youtube.com/watch?v=8fhOItB0zUM,Beer,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,94000,13000,87.85%,,,consumerist
@@ -221,12 +221,12 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 219,2004,Budweiser,https://superbowl-ads.com/2004-budweiser-lipstick/,https://www.youtube.com/watch?v=zM4rU4jit5k,Beer,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,514,9,98.28%,inspirational,,consumerist
 220,2009,Hynudai,https://superbowl-ads.com/2009-hyundai-assurance-contract/,https://www.youtube.com/watch?v=lzQ2NeqjYS0,Automotive,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,7,0,100.00%,informative,,consumerist
 221,2014,Budweiser,https://superbowl-ads.com/2014-budweiser-puppy-love/,https://www.youtube.com/watch?v=gUGGepL5gGU,Beer,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,236,39,85.82%,inspirational,,consumerist
-222,2003,Pepsi,https://superbowl-ads.com/2003-pepsi-twist-osbornes/,https://www.youtube.com/watch?v=dnHEqQGl0yA,Soft Drink,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,NaN,NaN,NaN,,,consumerist
+222,2003,Pepsi,https://superbowl-ads.com/2003-pepsi-twist-osbornes/,https://www.youtube.com/watch?v=dnHEqQGl0yA,Soft Drink,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,consumerist
 223,2015,Coca-Cola,https://superbowl-ads.com/2015-coca-cola-make-it-happy/,https://www.youtube.com/watch?v=1AeG8tCzTGw,Soft Drink,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,486,24,95.29%,,,consumerist
 224,2003,NFL,https://superbowl-ads.com/2003-nfl-crazy-with-don-cheadle/,https://www.youtube.com/watch?v=Bs0Iwwl-5Lk,Football,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,44,2,95.65%,,,consumerist
 225,2012,Doritos,https://superbowl-ads.com/2012-doritos-sling-baby/,https://www.youtube.com/watch?v=6SWNLDdnz0A,Chips,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,315000,100000,75.90%,family,,consumerist
 226,2002,Pepsi,https://superbowl-ads.com/2002-pepsi-generations-with-britney-spears/,https://www.youtube.com/watch?v=TG4giyL-4Sk,Soft Drink,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,8500,105,98.78%,nostalgia,together,consumerist
-227,2002,Bud Light,https://superbowl-ads.com/2002-bud-light-cedric-advice/,https://www.youtube.com/watch?v=OfLLLnAngZI,Beer,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,29,0,100.00%,together,,consumerist
+227,2002,Bud Light,https://superbowl-ads.com/2002-bud-light-cedric-advice/,https://www.youtube.com/watch?v=OfLLLgZI,Beer,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,29,0,100.00%,together,,consumerist
 228,2000,Budweiser,https://superbowl-ads.com/2000-budweiser-whaasup/,https://www.youtube.com/watch?v=JJmqCKtJnxM,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,38000,730,98.12%,together,,consumerist
 229,2001,Bud Light,https://superbowl-ads.com/2001-bud-light-cedric-the-entertainer/,https://www.youtube.com/watch?v=h-HHbtwX5vY,Beer,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,3,0,100.00%,partner-catcher,,consumerist
 230,2013,Hynudai,https://superbowl-ads.com/video-2013-hyundai-genesis-super-bowl-xlvii-commercial/,https://www.youtube.com/watch?v=mOatp4Xi7IU,Automotive,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,8,0,100.00%,informative,,consumerist
@@ -236,9 +236,9 @@ index,year,brand,superbowl_ads_dot_com_url,youtube_url,Genre,funny,show_product_
 234,2016,Doritos,https://superbowl-ads.com/doritos-2016-super-bowl-50-ad-doritos-dogs/,https://www.youtube.com/watch?v=MNRAdrB9TSs,Chips,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,3900,182,95.54%,,,consumerist
 235,2008,Bud Light,https://superbowl-ads.com/2008-bud-light-ability-to-fly/,https://www.youtube.com/watch?v=-axbiEJiRGw,Beer,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,13,2,86.67%,,,consumerist
 236,2007,Doritos,https://superbowl-ads.com/2007-doritos-check-out-girl/,https://www.youtube.com/watch?v=nIcFZzdXSrU,Chips,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,278,78,78.09%,partner-catcher,,consumerist
-237,2001,NFL,https://superbowl-ads.com/2001-nfl-perfect-day/,,Football,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,NaN,NaN,NaN,,,consumerist
+237,2001,NFL,https://superbowl-ads.com/2001-nfl-perfect-day/,,Football,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,consumerist
 238,2001,Pepsi,https://superbowl-ads.com/2001-pepsi-bob-dole/,https://www.youtube.com/watch?v=6h7wifUL8mk,Soft Drink,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,15,2,88.24%,inspirational,,consumerist
-239,2014,NFL,https://superbowl-ads.com/nfl-now/,,Football,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NaN,NaN,NaN,informative,,consumerist
+239,2014,NFL,https://superbowl-ads.com/nfl-now/,,Football,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,informative,,consumerist
 240,2012,Budweiser,https://superbowl-ads.com/2012-budweiser-eternal-optimism/,https://www.youtube.com/watch?v=_GeiOdHsW_8,Beer,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,598,101,85.55%,,,consumerist
 241,2001,Pepsi,https://superbowl-ads.com/2001-pepsi-kasparov-vs-pepsi-machine/,https://www.youtube.com/watch?v=pldGc0Cpf84,Soft Drink,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,21,0,100.00%,chess,,consumerist
 242,2001,E-Trade,https://superbowl-ads.com/2001-etrade-security-guard/,https://www.youtube.com/watch?v=39BL7iqe6pQ,Trading,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,14,5,73.68%,,,consumerist
